@@ -1,0 +1,10 @@
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\bin\Debug\DropTokenGame.Tests.dll
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\bin\Debug\DropTokenGame.Tests.pdb
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\bin\Debug\nunit.framework.dll
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\bin\Debug\nunit.framework.pdb
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\bin\Debug\nunit.framework.xml
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\obj\Debug\DropTokenGame.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\obj\Debug\DropTokenGame.Tests.dll
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\obj\Debug\DropTokenGame.Tests.pdb
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\bin\Debug\DropTokenGame.dll
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\UnitTestProject1\bin\Debug\DropTokenGame.pdb

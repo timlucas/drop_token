@@ -1,0 +1,5 @@
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\DropTokenGame\bin\Debug\DropTokenGame.dll
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\DropTokenGame\bin\Debug\DropTokenGame.pdb
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\DropTokenGame\obj\Debug\DropTokenGame.dll
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\DropTokenGame\obj\Debug\DropTokenGame.pdb
+C:\Users\Tim\iCloudDrive\Documents\Job Search 2018\98point6\drop_token\DropTokenGame\obj\Debug\DropTokenGame.csprojResolveAssemblyReference.cache
